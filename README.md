@@ -8,10 +8,8 @@ This notebook uses data analysis and visualization to analyze the effects of the
 
 I would like to thank [Sudalai Rajkumar (SRK)](https://www.kaggle.com/sudalairajkumar) for creating this dataset!
   
-**Python Data Analysis libraries used:**
-  - [_NumPy_](https://numpy.org/)
-  - [_Pandas_](https://pandas.pydata.org/)
-  
-**Python Data Visualization libraries used:**
-  - [_Seaborn_](https://seaborn.pydata.org/)
-  - [_Matplotlib_](https://matplotlib.org/)
+**Libraries:**
+  * [_NumPy_](https://numpy.org/)
+  * [_Pandas_](https://pandas.pydata.org/)
+  * [_Seaborn_](https://seaborn.pydata.org/)
+  * [_Matplotlib_](https://matplotlib.org/)
