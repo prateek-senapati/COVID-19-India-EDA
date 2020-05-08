@@ -17891,19 +17891,19 @@ id,government_id,diagnosed_date,age,gender,detected_city,detected_district,detec
 17889,,20/04/2020,,,,Anantnag,Jammu and Kashmir,,Hospitalized,20/04/2020,Details awaited
 17890,,20/04/2020,,,,Anantnag,Jammu and Kashmir,,Hospitalized,20/04/2020,Details awaited
 17891,,20/04/2020,64,M,,Jajpur,Odisha,,Hospitalized,20/04/2020,Details awaited
-17892,KA-P396,20/04/2020,24,M,,Gadag,Karnataka,,Hospitalized,20/04/2020,Secondary Contact of P370
-17893,KA-P397,20/04/2020,7,F,,Vijayapura,Karnataka,,Hospitalized,20/04/2020,Contact of P221
-17894,KA-P398,20/04/2020,36,M,,Vijayapura,Karnataka,,Hospitalized,20/04/2020,Contact of P221
-17895,KA-P399,20/04/2020,27,F,,Vijayapura,Karnataka,,Hospitalized,20/04/2020,Contact of P221
-17896,KA-P400,20/04/2020,25,F,,Vijayapura,Karnataka,,Hospitalized,20/04/2020,Contact of P221
-17897,KA-P401,20/04/2020,21,F,,Vijayapura,Karnataka,,Hospitalized,20/04/2020,Contact of P362
-17898,KA-P402,20/04/2020,28,M,,Vijayapura,Karnataka,,Hospitalized,20/04/2020,Contact of P362
-17899,KA-P403,20/04/2020,47,F,,Vijayapura,Karnataka,,Hospitalized,20/04/2020,Contact of P362
-17900,KA-P404,20/04/2020,10,M,,Vijayapura,Karnataka,,Hospitalized,20/04/2020,Contact of P221
-17901,KA-P405,20/04/2020,34,F,,Vijayapura,Karnataka,,Hospitalized,20/04/2020,Contact of P228
-17902,KA-P406,20/04/2020,38,F,,Vijayapura,Karnataka,,Hospitalized,20/04/2020,Contact of P221
-17903,KA-P407,20/04/2020,14,M,,Vijayapura,Karnataka,,Hospitalized,20/04/2020,Contact of P221
-17904,KA-P408,20/04/2020,27,M,,Bidar,Karnataka,,Hospitalized,20/04/2020,Contact of P117
+17892,KA-P396,20/04/2020,24,M,,Gadag,Karnataka,,Hospitalized,20/04/2020,Secondary Contact of KA-P370
+17893,KA-P397,20/04/2020,7,F,,Vijayapura,Karnataka,,Hospitalized,20/04/2020,Contact of KA-P221
+17894,KA-P398,20/04/2020,36,M,,Vijayapura,Karnataka,,Hospitalized,20/04/2020,Contact of KA-P221
+17895,KA-P399,20/04/2020,27,F,,Vijayapura,Karnataka,,Hospitalized,20/04/2020,Contact of KA-P221
+17896,KA-P400,20/04/2020,25,F,,Vijayapura,Karnataka,,Hospitalized,20/04/2020,Contact of KA-P221
+17897,KA-P401,20/04/2020,21,F,,Vijayapura,Karnataka,,Hospitalized,20/04/2020,Contact of KA-P362
+17898,KA-P402,20/04/2020,28,M,,Vijayapura,Karnataka,,Hospitalized,20/04/2020,Contact of KA-P362
+17899,KA-P403,20/04/2020,47,F,,Vijayapura,Karnataka,,Hospitalized,20/04/2020,Contact of KA-P362
+17900,KA-P404,20/04/2020,10,M,,Vijayapura,Karnataka,,Hospitalized,20/04/2020,Contact of KA-P221
+17901,KA-P405,20/04/2020,34,F,,Vijayapura,Karnataka,,Hospitalized,20/04/2020,Contact of KA-P228
+17902,KA-P406,20/04/2020,38,F,,Vijayapura,Karnataka,,Hospitalized,20/04/2020,Contact of KA-P221
+17903,KA-P407,20/04/2020,14,M,,Vijayapura,Karnataka,,Hospitalized,20/04/2020,Contact of KA-P221
+17904,KA-P408,20/04/2020,27,M,,Bidar,Karnataka,,Hospitalized,20/04/2020,Contact of KA-P117
 17905,KL-KN-P89,20/04/2020,22,M,Madayi,Kannur,Kerala,India,Hospitalized,20/04/2020,"Travel history to Dubai,  IAX 346 landed at Kozhikode"
 17906,KL-KN-P90,20/04/2020,25,M,Iriveri,Kannur,Kerala,India,Hospitalized,20/04/2020,"Travel history to Dubai, EK 532 landed at Thiruvanathapuram"
 17907,KL-KN-P91,20/04/2020,36,M,Velapuram,Kannur,Kerala,India,Hospitalized,20/04/2020,"Travel history to Dubai, EK  568 landed at Bangalore then took Indigo flight to Kannur "
@@ -23142,7 +23142,7 @@ id,government_id,diagnosed_date,age,gender,detected_city,detected_district,detec
 23140,,24/04/2020,48,F,Jamalpur,Munger,Bihar,,Hospitalized,24/04/2020,Details awaited
 23141,,24/04/2020,60,F,Jamalpur,Munger,Bihar,,Hospitalized,24/04/2020,Details awaited
 23142,KA-P446,24/04/2020,49,F,Jamalpur,Bengaluru Urban,Karnataka,,Hospitalized,24/04/2020,Influenza like illness (ILI)
-23143,KA-P447,24/04/2020,32,M,Jamalpur,Tumakuru,Karnataka,,Hospitalized,24/04/2020,"Travel history to Surat, Gujarat"
+23143,KA-P447,24/04/2020,32,M,Jamalpur,Tumakuru,Karnataka,,Hospitalized,24/04/2020,"Travelled from Surat, Gujarat"
 23144,KA-P448,24/04/2020,10,F,Raibhag,Belagavi,Karnataka,,Hospitalized,24/04/2020,Contact of KA-P150
 23145,KA-P449,24/04/2020,30,M,,Bengaluru Urban,Karnataka,,Hospitalized,24/04/2020,Contact of Pandarayanapura case
 23146,KA-P450,24/04/2020,22,M,,Bengaluru Urban,Karnataka,,Hospitalized,24/04/2020,Contact of Pandarayanapura case
@@ -24605,7 +24605,7 @@ id,government_id,diagnosed_date,age,gender,detected_city,detected_district,detec
 24603,KA-P485,25/04/2020,55,F,,Belagavi,Karnataka,,Hospitalized,25/04/2020,Secondary contact of KA-P128
 24604,KA-P486,25/04/2020,42,F,,Belagavi,Karnataka,,Hospitalized,25/04/2020,Secondary contact of KA-P128
 24605,KA-P487,25/04/2020,39,F,,Belagavi,Karnataka,,Hospitalized,25/04/2020,Secondary contact of KA-P128
-24606,KA-P488,25/04/2020,18,M,,Chikkaballapura,Karnataka,,Hospitalized,25/04/2020,Travel history to Hindupur and Ananthapur
+24606,KA-P488,25/04/2020,18,M,,Chikkaballapura,Karnataka,,Hospitalized,25/04/2020,Travelled from Hindupur and Ananthapur
 24607,KA-P489,25/04/2020,33,F,,Dakshina Kannada,Karnataka,,Hospitalized,25/04/2020,Contact of KA-P409
 24608,,25/04/2020,,,,Jaipur,Rajasthan,,Hospitalized,25/04/2020,Details awaited
 24609,,25/04/2020,,,,Bharatpur,Rajasthan,,Hospitalized,25/04/2020,Details awaited
