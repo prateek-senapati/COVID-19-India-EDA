@@ -13,3 +13,5 @@ I would like to thank [Sudalai Rajkumar (SRK)](https://www.kaggle.com/sudalairaj
   * [_Pandas_](https://pandas.pydata.org/)
   * [_Seaborn_](https://seaborn.pydata.org/)
   * [_Matplotlib_](https://matplotlib.org/)
+
+Thank You, have a Wonderful day and be Safe!
