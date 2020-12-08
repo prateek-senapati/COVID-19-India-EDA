@@ -1,6 +1,6 @@
 # COVID-19 (India) Data Analysis and Visualization
 
-This notebook uses data analysis and visualization to analyze the effects of the ongoing COVID-19 pandemic in India, and create visualizations for important observations made during the analysis.
+[This notebook](https://github.com/prateek-senapati/COVID-19-India-EDA/blob/master/COVID-19%20(India)%20Data%20Analysis%20and%20Visualization.ipynb) uses data analysis and visualization to analyze the effects of the ongoing COVID-19 pandemic in India, and create visualizations for important observations made during the analysis.
 
 **Language:** Python 3
 
